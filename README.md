@@ -1,10 +1,30 @@
-# 👋 Hi, I'm SeoYul Yi (이서율)
+<div align="center">
+
+<!-- ① loan_website & loan_admin -->
+<a href="https://github.com/zegiha/loan_website">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=zegiha&repo=loan_website&theme=github_dark" />
+</a>
+<a href="https://github.com/zegiha/loan_admin">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=zegiha&repo=loan_admin&theme=github_dark" />
+</a>
+
+<!-- ② nexus-frontend & bride -->
+<a href="https://github.com/zegiha/nexus-frontend">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=zegiha&repo=nexus-frontend&theme=github_dark" />
+</a>
+<a href="https://github.com/zegiha/bride">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=zegiha&repo=bride&theme=github_dark" />
+</a>
+
+</div>
+
+# 👋 Hi, I'm SeoYul Lee (이서율)
 
 ### 🙋‍♂️ 소개
 
 안녕하세요, Frontend를 주력으로 Design, Backend, DevOps, AI, PS 등 다양한 분야를 공부하고 있는 이서율입니다.
 
-Hello, I'm SeoYul Yi, a developer focused on Frontend development, also exploring Design, Backend, DevOps, AI, and more.
+Hello, I'm SeoYul Lee, a developer focused on Frontend development, also exploring Design, Backend, DevOps, AI, and more.
 
 ---
 
